@@ -94,7 +94,7 @@ class Userbot:
         if self.two:
             await self.two.start()
             try:
-                await self.two.join_chat("YARO_KA_ADDA"")
+                await self.two.join_chat("YARO_KA_ADDA")
                 await self.two.join_chat("KOMALMUSICUPDATE")
                 await self.two.join_chat("Your_Movie_Area")
                 await self.two.join_chat("sureshot101game")
