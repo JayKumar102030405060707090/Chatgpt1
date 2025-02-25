@@ -69,11 +69,11 @@ class Userbot:
         if self.one:
             await self.one.start()
             try:
-                await self.one.join_chat("RADHA_MUSIC_SUPPORT")
-                await self.one.join_chat("FRIEND_KI_MASTI_CLUB")
-                await self.one.join_chat("GOOGLE_MUSIC_UPDATE")
-                await self.one.join_chat("NAINCY_UPDATES")
-                await self.one.join_chat("Vishnusoni_14")
+                await self.one.join_chat("YARO_KA_ADDA")
+                await self.one.join_chat("KOMALMUSICUPDATE")
+                await self.one.join_chat("Your_Movie_Area")
+                await self.one.join_chat("sureshot101game")
+                await self.one.join_chat("Komal_music_bot")
             except Exception as e:
                 LOGGER(__name__).warning(f"Assistant 1 failed to join chats: {e}")
             assistants.append(1)
@@ -94,11 +94,11 @@ class Userbot:
         if self.two:
             await self.two.start()
             try:
-                await self.two.join_chat("RADHA_MUSIC_SUPPORT")
-                await self.two.join_chat("FRIEND_KI_MASTI_CLUB")
-                await self.two.join_chat("GOOGLE_MUSIC_UPDATE")
-                await self.two.join_chat("NAINCY_UPDATES")
-                await self.two.join_chat("Vishnusoni_14")
+                await self.two.join_chat("YARO_KA_ADDA"")
+                await self.two.join_chat("KOMALMUSICUPDATE")
+                await self.two.join_chat("Your_Movie_Area")
+                await self.two.join_chat("sureshot101game")
+                await self.two.join_chat("Komal_music_bot")
             except Exception as e:
                 LOGGER(__name__).warning(f"Assistant 2 failed to join chats: {e}")
             assistants.append(2)
