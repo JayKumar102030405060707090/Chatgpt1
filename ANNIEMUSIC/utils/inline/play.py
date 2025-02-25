@@ -60,10 +60,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Vishnusoni_14"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/INNOCENT_FUCKER"
             ),
             InlineKeyboardButton(
-                text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/NAINCY_UPDATES"
+                text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/YARO_KA_ADDAA"
             ),
          ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -110,10 +110,10 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/vishnusoni_14"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/INNOCENT_FUCKER"
             ),
             InlineKeyboardButton(
-                text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/NAINCY_UPDATES"
+                text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/YARO_KA_ADDAA"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -133,10 +133,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/vishnusoni_14"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/INNOCENT_FUCKER"
             ),
             InlineKeyboardButton(
-                text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/NAINCY_UPDATES"
+                text="⛦ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/YARO_KA_ADDAA"
             ),
          ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
