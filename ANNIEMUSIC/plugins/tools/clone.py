@@ -2,7 +2,8 @@ import logging
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from pyrogram.errors import AccessTokenExpired, AccessTokenInvalid
-from ANNIEMUSIC.utils.database import get_assistant, clonebotdb
+from ANNIEMUSIC.utils.database import get_assistant
+from ANNIEMUSIC.utils.clonedb import clonebotdb  # Fix: Correct import path
 from config import API_ID, API_HASH, LOG_GROUP_ID
 from ANNIEMUSIC import app
 from ANNIEMUSIC.misc import SUDOERS
